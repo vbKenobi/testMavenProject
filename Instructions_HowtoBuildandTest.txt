@@ -1,0 +1,8 @@
+
+Build Instructions:
+- On Command prompt, go to my-app directory (cd my-app)
+- Run the following command from the command prompt: mvn package
+
+Testing the compiled and packaged JAR file by running the following command from command prompt:
+- java -cp target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App
+
